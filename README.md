@@ -3,8 +3,11 @@
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
 1.Start the program and initialize IP address and MAC address tables.
+
 2.For ARP, enter the destination IP address and search the corresponding MAC address.
+
 3.For RARP, enter the MAC address and search the corresponding IP address.
+
 4.Display the result and stop the program.
 ## Client:
 1. Start the program
